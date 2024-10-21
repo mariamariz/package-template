@@ -1,9 +1,9 @@
-# package_name
+# ImagemPlus
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+
+   Criar um programa que aplique filtros básicos em imagens, como preto e branco, sépia ou ajuste de brilho e contraste dando beleza e simplicidade.
+	
 
 ## Installation
 
@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Maria Mariz
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
